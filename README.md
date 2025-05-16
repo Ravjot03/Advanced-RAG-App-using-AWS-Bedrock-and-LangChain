@@ -17,6 +17,13 @@ This project allows users to interact with PDF documents using natural language 
 
 🗂️ Vector store creation and management via sidebar
 
+
+---
+
+# UI
+![Screenshot 2025-05-06 at 11 26 10 PM](https://github.com/user-attachments/assets/8b037018-4404-43c5-9031-51e9f4908fea)
+
+
 ---
 
 ## 📬 Connect with Me
